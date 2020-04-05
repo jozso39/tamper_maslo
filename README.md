@@ -16,7 +16,7 @@ Původně jsem chtěl udělat celou vlastní chrome extention pro rohlík, tohle
 
 1. nejprve je třeba stáhnout do Chrome prohlížeče [Tampermonkey extention](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
 2. otevřít Tampermonkey (vpravo nahoře s ostatními extentionami) a kliknout na "create a new script". Otevře se editor
-3. Vše z editoru vymazat (CTRL+A, DELETE) a vložit kód skriptu ze souboru tamper-script.js
+3. Vše z editoru vymazat (CTRL+A, DELETE) a vložit kód skriptu ze souboru [tamper-script.js](https://github.com/jozso39/tamper_maslo/blob/master/tamper-script.js)
 4. uložit (CTRL+S)
 5. přejít na libovolné testovací prostředí rohlíku (nebo na produkci)
 6. kliknout kamkoliv na stránku a stisknout `CTRL+ALT+F2`
